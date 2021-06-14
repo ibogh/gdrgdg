@@ -1,0 +1,14 @@
+Algorithms 
+length:=0
+numberword:=0
+numbervowels:=0
+str:=" "
+str:= lowercase
+for length of str do 
+i:= []
+length := [i]-1
+
+if [i] := ('a',"e","i","o","u") 
+numberv :++1 
+countspaces
+numberword := countedspaces - 2
